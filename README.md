@@ -57,6 +57,7 @@ React/TypeScript для интерфейса; отдельный процесс 
 
 Основная ветка — `main`. Владелец разрешил агенту самостоятельно делать коммиты,
 push и выпускать проверенные релизы. Политика — [releasing.md](docs/releasing.md).
+Публичный репозиторий: [tokatim/rust-uninstaller](https://github.com/tokatim/rust-uninstaller).
 
 Собственный код и документация публикуются под [Apache License 2.0](LICENSE).
 Проект бесплатный и open source; коммерческое использование разрешено лицензией.
